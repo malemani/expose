@@ -1,0 +1,7 @@
+\select@language {ngerman}
+\contentsline {chapter}{Titel}{2}
+\contentsline {section}{Motivation}{2}
+\contentsline {section}{Problemstellung und Zielsetzung}{2}
+\contentsline {section}{Methodisches Vorgehen}{2}
+\contentsline {section}{Erwartetes Resultat}{3}
+\contentsline {section}{State-of-the-Art und Ausgangspunkt}{3}
