@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2010.9.18)  12 JUL 2011 13:38
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2010.9.18)  14 JUL 2011 11:16
 entering extended mode
 **document.tex
 (D:\Orc\Projekte\expose\document.tex
@@ -112,10 +112,10 @@ fig/pdftex.map}] [2
 
 ] [3] (D:\Orc\Projekte\expose\document.aux) ) 
 Here is how much of TeX's memory you used:
- 859 strings out of 495285
- 11196 string characters out of 3180612
- 60129 words of memory out of 3000000
- 4096 multiletter control sequences out of 15000+200000
+ 860 strings out of 495285
+ 11212 string characters out of 3180612
+ 61129 words of memory out of 3000000
+ 4097 multiletter control sequences out of 15000+200000
  8242 words of font info for 29 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  25i,4n,24p,494b,170s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -123,7 +123,7 @@ Here is how much of TeX's memory you used:
 e1/public/amsfonts/cm/cmbx12.pfb><C:/Programme/MiKTeX 2.8/fonts/type1/public/am
 sfonts/cm/cmr12.pfb><C:/Programme/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmt
 i12.pfb>
-Output written on document.pdf (3 pages, 47691 bytes).
+Output written on document.pdf (3 pages, 51876 bytes).
 PDF statistics:
  24 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
