@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2010.9.18)  14 JUL 2011 11:16
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2010.9.18)  24 JUL 2011 23:25
 entering extended mode
 **document.tex
 (D:\Orc\Projekte\expose\document.tex
@@ -110,22 +110,79 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 {C:/Dokumente und Einstellungen/All Users/Anwendungsdaten/MiKTeX/2.8/pdftex/con
 fig/pdftex.map}] [2
 
-] [3] (D:\Orc\Projekte\expose\document.aux) ) 
+]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 62.
+ ("C:\Programme\MiKTeX 2.8\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 62.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 85.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 85.
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 122--122
+[][]\OT1/cmr/m/n/10 http://www.augsburger-allgemeine.de/politik/Leopard-Geschae
+ft-mit-Saudi-Arabien-wirbelt-
+ []
+
+
+Underfull \hbox (badness 3895) in paragraph at lines 119--125
+[][]\OT1/cmr/m/n/12 Problemstellung: []Ublicherweise ver-zich-ten po-li-ti-sche
+ Ak-teu-re dar-auf, die
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 157--157
+[][]\OT1/cmr/m/n/10 http://www.sueddeutsche.de/digital/anti-nazi-proteste-in-dr
+esden-polizei-spaehte-tausende-
+ []
+
+
+Underfull \hbox (badness 1681) in paragraph at lines 160--163
+[][]\OT1/cmr/bx/n/12 Versammlungsfreiheit \OT1/cmr/m/n/12 be-schreibt das Recht
+ und die M[]oglichkeiten der
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
+[][]\OT1/cmr/m/n/10 http://derstandard.at/1310511648954/Demo-gegen-Ball-Nach-Pr
+otest-gegen-rechten-Ball-Rote-
+ []
+
+[5] [6] [7]
+Underfull \hbox (badness 4132) in paragraph at lines 264--266
+[][]\OT1/cmr/m/n/12 Wie k[]onnen vir-tu-ell De-mons-trie-ren-de vor un-ge-recht
+-fer-tig-ten Sank-tio-nen
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 281--286
+\OT1/cmr/m/n/12 die sonst auf-grund un-de-mo-kra-ti-scher Umst[]ande kei-ne nen
+-nens-wer-te
+ []
+
+[9] [10] [11] (D:\Orc\Projekte\expose\document.aux) ) 
 Here is how much of TeX's memory you used:
- 860 strings out of 495285
- 11212 string characters out of 3180612
- 61129 words of memory out of 3000000
- 4097 multiletter control sequences out of 15000+200000
+ 878 strings out of 495285
+ 11504 string characters out of 3180612
+ 64129 words of memory out of 3000000
+ 4112 multiletter control sequences out of 15000+200000
  8242 words of font info for 29 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 25i,4n,24p,494b,170s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Programme/MiKTeX 2.8/fonts/typ
-e1/public/amsfonts/cm/cmbx12.pfb><C:/Programme/MiKTeX 2.8/fonts/type1/public/am
-sfonts/cm/cmr12.pfb><C:/Programme/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmt
-i12.pfb>
-Output written on document.pdf (3 pages, 51876 bytes).
+ 25i,8n,24p,258b,196s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Programme/MiKTeX 2.8/f
+onts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Programme/MiKTeX 2.8/fonts/type1/p
+ublic/amsfonts/cm/cmr10.pfb><C:/Programme/MiKTeX 2.8/fonts/type1/public/amsfont
+s/cm/cmr12.pfb><C:/Programme/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr7.pfb
+><C:/Programme/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Programme
+/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Programme/MiKTeX 2.8/
+fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on document.pdf (11 pages, 121013 bytes).
 PDF statistics:
- 24 PDF objects out of 1000 (max. 8388607)
+ 66 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
